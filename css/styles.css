@@ -56,3 +56,65 @@ height: 850px;
 background: black;
 background:rgba(0,0,0,0.0);
 }
+.men{
+margin-top: 20px;
+margin-left: 20px;
+background-color: transparent;
+height: 50px;
+width: 75px;
+}
+
+
+.bg-1{
+padding: 0;
+}
+.bg-10{
+padding: 0;
+}
+.bg-00{
+background-color:#F15A29;
+}
+
+.happy{
+height: 119px;
+width:300px;
+}
+
+.overlay-mini {
+position: absolute;
+bottom: 0;
+right: 0;
+background:rgba(0,0,0,0.0);
+overflow: hidden;
+width: 100%;
+height: 100%;
+transition: .5s ease;
+}
+
+.bg-1:hover .overlay-mini {
+position: absolute;
+bottom: 0;
+right: 0;
+background:rgba(250,250,250,0.5);
+overflow: hidden;
+width: 100%;
+height: 100%;
+transition: .5s ease;
+}
+.bg-1:hover .text {
+color: #000000;
+}
+
+.text {
+color: white;
+font-size: 40px;
+font-family: 'Handlee', Open Sans;
+padding: 16px 32px;
+white-space: nowrap;
+position: absolute;
+overflow: hidden;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+-ms-transform: translate(-50%, -50%);
+}
