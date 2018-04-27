@@ -1,7 +1,7 @@
 # Anitas-kitchen
 Anita's Kitchen
 
->Author: Dan Alvin MUngai
+>Author: Dan Alvin Mungai
 >
 >---------------------------
 >
@@ -16,7 +16,7 @@ Anita's Kitchen
 >
 >---------------------------
 >
->Link to deployed page _(click here)_<a href="https://danalvin.github.io/Anita-s-kitchen/" title="Title">
+>Link to deployed page <a href="https://danalvin.github.io/Anita-s-kitchen/" title="Title">
 Anita's Kitchen</a>
 >
 >---------------------------
