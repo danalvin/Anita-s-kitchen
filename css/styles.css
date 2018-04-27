@@ -5,8 +5,6 @@ font-family: 'Handlee', Open Sans;
 .container-fluid {
   padding-top: 0;
 }
-
-
 .media{
 padding: 0;
 height: 850px;
@@ -47,7 +45,6 @@ height: 850px;
 background: black;
 background:rgba(0,0,0,0.0);
 }
-
 .header{
 margin-top: 3%;
 text-align: center;
@@ -68,8 +65,6 @@ background-color: transparent;
 height: 50px;
 width: 75px;
 }
-
-
 .bg-1{
 padding: 0;
 }
@@ -79,12 +74,10 @@ padding: 0;
 .bg-00{
 background-color:#F15A29;
 }
-
 .happy{
 height: 119px;
 width:300px;
 }
-
 .overlay-mini {
 position: absolute;
 bottom: 0;
@@ -95,7 +88,6 @@ width: 100%;
 height: 100%;
 transition: .5s ease;
 }
-
 .bg-1:hover .overlay-mini {
 position: absolute;
 bottom: 0;
@@ -109,7 +101,6 @@ transition: .5s ease;
 .bg-1:hover .text {
 color: #000000;
 }
-
 .text {
 color: white;
 font-size: 40px;
@@ -140,7 +131,6 @@ text-align: right;
 padding: 5%;
 text-align: center;
 }
-
 .fasts{
 margin-bottom: 10%;
 margin-left: 10%;
@@ -214,7 +204,6 @@ font-weight: 100;
 color: #ffffff;
 border-radius: 5px;
 }
-
 .formButton {
 margin: 20px;
 background-color:#F15A29;
@@ -226,7 +215,6 @@ padding:6px 50px;
 text-decoration:none;
 border-radius: 5px;
 }
-
 .formButton:hover {
 background-color: #27ae60;
 color:#ffffff;
@@ -244,19 +232,15 @@ top:3px;
 input:focus {
 outline: none;
 }
-
-::-webkit-input-placeholder {
+:-webkit-input-placeholder {
 color: #ecf0f1;
 }
-
 :-moz-placeholder {
 color: #ecf0f1;
 }
-
-::-moz-placeholder
+:-moz-placeholder
 color: #ecf0f1;
 }
-
 :-ms-input-placeholder {
 color: #ecf0f1;
 }
@@ -271,8 +255,6 @@ text-align: center;
 margin-top: 3%;
 color: #ffffff;
 }
-
-
 .overlayMenu {
 height: 100%;
 width: 0;
@@ -284,7 +266,6 @@ background-color: #F15A29;
 overflow-x: hidden;
 transition: 0.5s;
 }
-
 .overlay-content {
 position: relative;
 top: 25%;
@@ -292,7 +273,6 @@ width: 100%;
 text-align: center;
 margin-top: 30px;
 }
-
 .overlayMenu a {
 padding: 8px;
 text-decoration: none;
@@ -301,18 +281,15 @@ color: #000000;
 display: block;
 transition: 0.3s;
 }
-
 .overlayMenu a:hover, .overlayMenu a:focus {
 color: #f1f1f1;
 }
-
 .overlayMenu .closebtn {
 position: absolute;
 top: 20px;
 right: 45px;
 font-size: 60px;
 }
-
 @media screen and (max-height: 450px) {
 .overlayMenu a {font-size: 20px}
 .overlayMenu .closebtn {
@@ -321,7 +298,6 @@ top: 15px;
 right: 35px;
 }
 }
-
 .button {
 border: none;
 color: #F15A29;
@@ -334,7 +310,6 @@ margin: 4px 2px;
 cursor: pointer;
 border-radius: 5px;
 }
-
 .button1 {
 background-color: white;
 color: #F15A29;
