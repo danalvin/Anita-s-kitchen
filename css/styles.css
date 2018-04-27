@@ -13,3 +13,6 @@ font-size: 60px;
 margin-top: 4%;
 text-align: center;
 }
+.container-fluid {
+  padding-top: 0;
+}
