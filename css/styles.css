@@ -39,3 +39,20 @@ background-image: url(../images/foodsBg.jpg);
 background-position: center center;
 background-size: cover;
 }
+.media3{
+padding: 0;
+height: 300px;
+width:100%;
+background-image: url(../images/subscribe.jpg);
+ background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+}
+.overlay{
+padding: 0;
+margin: auto;
+width: 100%;
+height: 850px;
+background: black;
+background:rgba(0,0,0,0.0);
+}
