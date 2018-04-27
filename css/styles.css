@@ -56,8 +56,10 @@ color: white;
 font-size: 60px;
 }
 .logo{
-margin-top: 4%;
+margin-top: 0px;
 text-align: center;
+padding-top: inherit;
+height: 900px;
 }
 .men{
 margin-top: 20px;
