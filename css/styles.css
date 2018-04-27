@@ -1,0 +1,15 @@
+body{
+margin: 0;
+font-family: 'Handlee', Open Sans;
+}
+.header{
+margin-top: 3%;
+text-align: center;
+font-family: 'Handlee', Open Sans;
+color: white;
+font-size: 60px;
+}
+.logo{
+margin-top: 4%;
+text-align: center;
+}
