@@ -30,3 +30,12 @@ background-attachment: fixed;
 background-size: cover;
 margin-top: 70px;
 }
+.media2{
+padding: 0;
+height: 600px;
+width:100%;
+background-image: url(../images/foodsBg.jpg);
+ background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+}
