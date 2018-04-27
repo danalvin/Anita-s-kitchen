@@ -232,6 +232,9 @@ color:#ffffff;
 .logo{
   background: url("../image/landing.jpg")
 }
+.mail{
+  background: url("../image/subscribe.jpg")
+}
 .formButton:active {
 position:relative;
 top:3px;
