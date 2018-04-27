@@ -118,3 +118,63 @@ left: 50%;
 transform: translate(-50%, -50%);
 -ms-transform: translate(-50%, -50%);
 }
+.textt {
+text-align: center;
+margin-top: 2%;
+color: #ffffff;
+}
+#text1{
+padding: 5%;
+text-align: left;
+}
+#text2{
+padding: 5%;
+text-align: right;
+}
+#text3{
+padding: 5%;
+text-align: center;
+}
+
+.fasts{
+margin-bottom: 10%;
+margin-left: 10%;
+margin-right: 30%;
+margin-top: 10%;
+padding:0;
+border-color: transparent;
+border-style: solid;
+border-width: 5px;
+border-radius: 5px;
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.cust{
+width: 80%;
+margin-top: 10%;
+margin-bottom: 10%;
+margin-left: 10%;
+margin-right: 10%;
+border-color: transparent;
+border-style: solid;
+border-width: 5px;
+border-radius: 5px;
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.party{
+height: 400px;
+width: 80%;
+margin-top: 100px;
+margin-bottom: 100px;
+margin-left: 10%;
+margin-right: 10%;
+background-color: #ffffff;
+}
+#burger{
+	text-align: center;
+	padding: 50px;
+}
+.partyhead{
+height: 50px;
+width: 100%;
+background-color: #ccc;
+}
